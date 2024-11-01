@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="en">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="Total Wins"/>
+<phrase key="totalWager" value="Total Wager"/>
+<phrase key="wagerType" value="Wager Type"/>
+<phrase key="BUY" value="Buy"/>
+<phrase key="TRY" value="Try"/>
+<phrase key="gameName1" value="Match 3 of 9 Mini-Game"/>
+<phrase key="gameName2" value="Bonus Match 3 of 6 Mini-Game"/>
+<phrase key="prizeValue" value="Prize Value"/>
+<phrase key="match3" value="Match 3"/>
+<phrase key="merchandisePrizeAwarded" value="Merchandise Prize Tier Awarded"/>
+</translation>
